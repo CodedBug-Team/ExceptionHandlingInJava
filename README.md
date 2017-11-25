@@ -7,8 +7,8 @@ For Example, let’s take a scenario where you are filling an online form. Once 
 Exception handling in JAVA is same as above statement, developer will built an application that can handle mistake done by users with Try/Catch block or may be using some other ways. The main purpose of Exception handling is to ensure the smooth execution of application and application should not break down by any exception or anomaly such as ClassNotFound, IO, SQL, Remote etc and any anomalies can be handle.  
 
 Types of Exception 
-    Checked Exception
-    Unchecked Exception
-    Error
+* Checked Exception
+* Unchecked Exception
+* Error
 
 Among which there are only two main exceptions: checked and unchecked, where error is considered as unchecked throwable. <a href="http://p3lang.com/2017/11/exception-handling-java/">Read more</a>
